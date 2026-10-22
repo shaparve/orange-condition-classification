@@ -46,5 +46,7 @@ These exclude some loading/preprocessing costs and are not end-to-end latency.
 4. Run cells from top to bottom and verify outputs.
 5. Keep the original test set separate until final evaluation.
 
-## Submission reminder
-Add the actual Colab notebook and any approved model files before pushing to GitHub. Set Colab permissions to anyone-with-the-link can view. Do not claim a public repository or video exists until created.
+## Submission Status
+- Completed Google Colab notebook uploaded.
+- Project documentation and evaluation results included.
+- Test results documented for SVM, Random Forest, and MobileNetV2.
