@@ -1,0 +1,22 @@
+GITHUB UPLOAD CHECKLIST
+
+1. Open your GitHub repository.
+2. Upload README.md, requirements.txt, .gitignore, results/test_metrics.csv,
+   and Orange_Condition_Classification_Report.pdf.
+3. Upload Orange_Condition_Classification_Report.docx too if you want an editable report.
+4. Publish your actual Colab notebook using Colab > File > Save a copy in GitHub,
+   or download the .ipynb and upload it manually.
+5. Do not upload the dataset ZIP publicly unless you have permission.
+6. Only add main_demo.py or src/ scripts if those files have actually been created
+   and checked against the code used in your notebook.
+7. The model ZIP you downloaded earlier is not included in this documentation package.
+   Add model files only if required and suitable for your repository size.
+8. After uploading, check that the notebook opens on GitHub and the README results
+   match your actual Colab output.
+
+Reported test metrics:
+SVM: accuracy 0.9697, macro precision 0.9664, macro recall 0.9659, macro F1 0.9659
+Random Forest: accuracy 0.9697, macro precision 0.9664, macro recall 0.9659, macro F1 0.9659
+MobileNetV2: accuracy 0.9394, macro precision 0.9380, macro recall 0.9318, macro F1 0.9342
+
+These results come from the user's Colab screenshots and are specific to the reported split.

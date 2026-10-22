@@ -1,0 +1,4 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1
+SVM,0.9697,0.9664,0.9659,0.9659
+Random Forest,0.9697,0.9664,0.9659,0.9659
+MobileNetV2,0.9394,0.9380,0.9318,0.9342

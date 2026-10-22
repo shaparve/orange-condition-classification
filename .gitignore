@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Dataset archives and raw data (do not publish without permission)
+Orange Dataset.zip
+data/raw/
+datasets/
+
+# Large model artifacts: add only if required and repository limits allow
+models/*.pth
+models/*.joblib
+models/*.h5
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
